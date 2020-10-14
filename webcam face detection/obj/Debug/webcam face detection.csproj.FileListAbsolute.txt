@@ -1,0 +1,28 @@
+C:\Code C#\webcam face detection\webcam face detection\bin\Debug\webcam face detection.exe.config
+C:\Code C#\webcam face detection\webcam face detection\bin\Debug\webcam face detection.exe
+C:\Code C#\webcam face detection\webcam face detection\bin\Debug\webcam face detection.pdb
+C:\Code C#\webcam face detection\webcam face detection\bin\Debug\AForge.dll
+C:\Code C#\webcam face detection\webcam face detection\bin\Debug\AForge.Math.dll
+C:\Code C#\webcam face detection\webcam face detection\bin\Debug\AForge.Video.DirectShow.dll
+C:\Code C#\webcam face detection\webcam face detection\bin\Debug\AForge.Video.dll
+C:\Code C#\webcam face detection\webcam face detection\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2015.dll
+C:\Code C#\webcam face detection\webcam face detection\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2017.dll
+C:\Code C#\webcam face detection\webcam face detection\bin\Debug\Emgu.CV.UI.dll
+C:\Code C#\webcam face detection\webcam face detection\bin\Debug\Emgu.CV.World.dll
+C:\Code C#\webcam face detection\webcam face detection\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Code C#\webcam face detection\webcam face detection\bin\Debug\ZedGraph.dll
+C:\Code C#\webcam face detection\webcam face detection\bin\Debug\AForge.xml
+C:\Code C#\webcam face detection\webcam face detection\bin\Debug\AForge.Math.xml
+C:\Code C#\webcam face detection\webcam face detection\bin\Debug\AForge.Video.xml
+C:\Code C#\webcam face detection\webcam face detection\bin\Debug\AForge.Video.DirectShow.xml
+C:\Code C#\webcam face detection\webcam face detection\bin\Debug\Emgu.CV.UI.xml
+C:\Code C#\webcam face detection\webcam face detection\bin\Debug\Emgu.CV.World.xml
+C:\Code C#\webcam face detection\webcam face detection\obj\Debug\webcam face detection.csprojAssemblyReference.cache
+C:\Code C#\webcam face detection\webcam face detection\obj\Debug\webcam face detection.exe.config
+C:\Code C#\webcam face detection\webcam face detection\obj\Debug\webcam_face_detection.Form1.resources
+C:\Code C#\webcam face detection\webcam face detection\obj\Debug\webcam_face_detection.Properties.Resources.resources
+C:\Code C#\webcam face detection\webcam face detection\obj\Debug\webcam face detection.csproj.GenerateResource.cache
+C:\Code C#\webcam face detection\webcam face detection\obj\Debug\webcam face detection.csproj.CoreCompileInputs.cache
+C:\Code C#\webcam face detection\webcam face detection\obj\Debug\webcam face detection.csproj.CopyComplete
+C:\Code C#\webcam face detection\webcam face detection\obj\Debug\webcam face detection.exe
+C:\Code C#\webcam face detection\webcam face detection\obj\Debug\webcam face detection.pdb
